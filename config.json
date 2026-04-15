@@ -1,0 +1,9 @@
+{
+  "auto_change_interval": 300,
+  "download_quality": "high",
+  "max_wallpapers": 200,
+  "startup_with_windows": false,
+  "change_mode": "random",
+  "wallpaper_dir": "C:\\Windows\\Temp\\switch-bing-wallpaper\\wallpapers",
+  "custom_interval": 300
+}
