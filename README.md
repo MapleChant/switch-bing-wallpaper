@@ -24,7 +24,7 @@
 
 ### 方法一：使用已打包的exe文件
 
-1. 下载发布的`switch-bing-wallpaper.exe`文件
+1. 下载发布的`dist/switch-bing-wallpaper.zip`文件
 2. 双击运行即可，无需安装
 
 ### 方法二：从源码运行
